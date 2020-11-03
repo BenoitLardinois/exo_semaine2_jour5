@@ -1,3 +1,3 @@
-### exo_semaine2_jour5
+## exo_semaine2_jour5
 
-## Some exercises from codewars.
+### Some exercises from codewars.
